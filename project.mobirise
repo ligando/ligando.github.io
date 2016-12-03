@@ -77,11 +77,11 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/658.jpg",
-            "bgColor": "#efb4a6",
-            "bgColorRadio": false,
+            "bgColor": "#f97352",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -320,7 +320,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/658_1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/658-1.jpg",
             "bgColor": "#3c3c3c",
             "bgColorRadio": false,
             "bgVideo": {
