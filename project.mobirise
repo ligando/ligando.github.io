@@ -320,7 +320,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/658-1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/658_1.jpg",
             "bgColor": "#3c3c3c",
             "bgColorRadio": false,
             "bgVideo": {
